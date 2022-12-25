@@ -1,0 +1,18 @@
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 210px;
+    height: 190px;
+    justify-content: space-around;
+    background-color: #ff0000;
+    border-radius: 10%;
+}
+p{
+    font-weight: bold;
+}
+h1{
+    font-size: 25px;
+    text-shadow: 2px 5px 5px red;
+}
